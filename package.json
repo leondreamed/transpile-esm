@@ -1,0 +1,11 @@
+{
+	"name": "transpile-esm",
+	"license": "MIT",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"@swc/core": "^1.3.50",
+		"is-file-esm-ts": "^0.1.0"
+	}
+}
