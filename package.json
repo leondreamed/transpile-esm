@@ -1,5 +1,6 @@
 {
 	"name": "transpile-esm",
+	"version": "1.0.0",
 	"license": "MIT",
 	"files": [
 		"index.js"
